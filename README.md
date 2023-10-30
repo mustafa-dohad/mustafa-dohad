@@ -1,8 +1,6 @@
 # 💫 About Me:
 Fun Fact: I'm a Programmer with a Great Sense of Humor!
 
-[![](https://visitcount.itsvg.in/api?id=mustafa-dohad&icon=0&color=12)](https://visitcount.itsvg.in)
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mustafa-dohad) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/DohadMustafa) 
 
@@ -19,6 +17,7 @@ Fun Fact: I'm a Programmer with a Great Sense of Humor!
 [![An image of @mustafadohad's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mustafadohad)](https://holopin.io/@mustafadohad)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=mustafa-dohad&icon=0&color=12)](https://visitcount.itsvg.in)
 
 
 
