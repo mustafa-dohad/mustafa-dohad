@@ -1,4 +1,6 @@
-![](https://komarev.com/ghpvc/?username=mustafa-dohad)
+[![](https://visitcount.itsvg.in/api?id=mustafa-dohad&icon=0&color=12)](https://visitcount.itsvg.in)
+
+
 
 # 💫 About Me:
 Fun Fact: I'm a Programmer with a Great Sense of Humor!
@@ -21,7 +23,5 @@ Fun Fact: I'm a Programmer with a Great Sense of Humor!
 [![An image of @mustafadohad's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mustafadohad)](https://holopin.io/@mustafadohad)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=mustafa-dohad&icon=0&color=12)](https://visitcount.itsvg.in)
-
 
 
