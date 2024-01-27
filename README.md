@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+Github+Profile;My+name+is+MUSTAFA+DOHAD;I'm+a+Sofware+Engineer🤓;My+main+stack+is+HTML,+CSS,+and+JAVASCRIPT;I+have+experience+creating+WebApps;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+Github+Profile;My+name+is+MUSTAFA+DOHAD;I'm+a+Sofware+Engineer🤓;My+main+stack+is+HTML,+CSS,+and+JS;I+have+experience+creating+WebApps;)](https://git.io/typing-svg)
 
 [![](https://visitcount.itsvg.in/api?id=mustafa-dohad&icon=0&color=12)](https://visitcount.itsvg.in)
 
