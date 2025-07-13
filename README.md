@@ -6,7 +6,7 @@
 
 
 # 💫 About Me:
-Fun Fact: I'm a Programmer with a Great Sense of Humor!
+Programmer with a great sense of humor :)
 
 
 
